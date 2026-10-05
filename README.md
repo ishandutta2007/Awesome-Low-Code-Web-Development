@@ -1,213 +1,144 @@
-# Awesome-Low-Code-Web-Development
+# 🚀 Awesome Low-Code Web Development
 
-## Top Low-Code Web Development Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Low-Code-Web-Development?style=flat-square" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Low-Code-Web-Development?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Low-Code Web Development Banner" width="100%"/>
+</p>
 
-*Focused on Visual Website Builders, No-Code/Low-Code Web Apps, Drag-and-Drop Design, CMS-Driven Sites & Rapid Web Publishing*
+## 📌 Top Low-Code & No-Code Web Development Platforms Ecosystem
 
-**Last updated: October 2026**
+**Curated List of SaaS Products & Open-Source GitHub Projects for Rapid Web Creation** 🌐✨
 
+*Focused on Visual Website Builders, No-Code/Low-Code Web Apps, Drag-and-Drop Design Editors, Headless CMS-Driven Sites & Enterprise Web Publishing.*
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Low-Code Web Development**. These tools enable the creation of websites and web applications through visual editors, templates, and minimal coding—serving designers, marketers, founders, and developers who want speed without sacrificing quality.
-
-
-
-**Examples** include Microsoft Power Pages, Webflow, Bubble, Wix Studio, Squarespace, WordPress, Framer, WeWeb, Duda, and Softr (the category leaders).
-
-
-
-**Open-source emphasis**: Most polished visual website builders are commercial SaaS. Strong open-source foundations exist in **WordPress**, **GrapesJS**, **Payload CMS**, **Directus**, **Strapi**, and related headless/CMS tools that power low-code web experiences. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Microsoft Power Pages](https://powerpages.microsoft.com/)**  
-
-  Microsoft’s low-code platform for building secure, data-driven external-facing websites integrated with Power Platform, Dataverse, and Microsoft 365.
-
-
-
-- **[Webflow](https://webflow.com/)**  
-
-  Leading visual web design and development platform that gives designers precise control over layout, interactions, and CMS-driven sites with clean code export options.
-
-
-
-- **[Bubble](https://bubble.io/)**  
-
-  Full-stack no-code platform for building complex web applications with databases, workflows, user authentication, and plugins—beyond static websites.
-
-
-
-- **[Wix Studio](https://www.wix.com/studio)**  
-
-  Professional-grade visual website builder from Wix aimed at agencies and designers, with advanced design tools, responsive controls, and business features.
-
-
-
-- **[Squarespace](https://www.squarespace.com/)**  
-
-  All-in-one website builder known for polished templates, integrated commerce, scheduling, and design-focused editing experience.
-
-
-
-- **[WordPress.com / managed WordPress hosting](https://wordpress.com/)**  
-
-  Hosted versions of the WordPress ecosystem offering simplified management, themes, and plugins while the core software remains open-source.
-
-
-
-- **[Framer](https://www.framer.com/)**  
-
-  Design-first website builder with advanced animations, interactions, and a modern visual editor popular among product and marketing teams.
-
-
-
-- **[WeWeb](https://www.weweb.io/)**  
-
-  No-code web app builder focused on flexibility, code export, and connecting to external backends and APIs.
-
-
-
-- **[Duda](https://www.duda.co/)**  
-
-  Website builder platform tailored for agencies and freelancers, with client management, white-label options, and responsive design tools.
-
-
-
-- **[Softr](https://www.softr.io/)**  
-
-  No-code platform that turns Airtable, Google Sheets, or other data sources into client portals, internal tools, and membership websites.
-
-
-
-## Open-Source GitHub Projects
-
-- **[WordPress](https://github.com/WordPress/WordPress)**  
-
-  The world’s most widely used open-source content management system and low-code web platform, powering a huge percentage of websites with themes, plugins, and block editing.
-
-
-
-- **[GrapesJS](https://github.com/GrapesJS/grapesjs)**  
-
-  Free and open-source web builder framework that enables drag-and-drop HTML/CSS template creation—ideal for embedding visual editors inside CMS or custom tools.
-
-
-
-- **[Payload CMS](https://github.com/payloadcms/payload)**  
-
-  Open-source, TypeScript-native headless CMS and application framework built on Next.js, providing an instant admin panel and flexible content modeling.
-
-
-
-- **[Directus](https://github.com/directus/directus)**  
-
-  Open-source data platform that wraps any SQL database with a real-time API and beautiful admin app—excellent foundation for low-code web experiences.
-
-
-
-- **[Strapi](https://github.com/strapi/strapi)**  
-
-  Leading open-source headless CMS that gives developers full control over content APIs while offering a user-friendly admin panel for non-technical users.
-
-
-
-- **[Ghost](https://github.com/TryGhost/Ghost)**  
-
-  Open-source publishing platform focused on modern publishing, memberships, and newsletters with a clean editing experience.
-
-
-
-- **[Plasmic](https://github.com/plasmicapp/plasmic)**  
-
-  Open-source visual builder and page builder that integrates with modern front-end codebases for design-to-code workflows.
-
-
-
-- **[Documentation and WordPress / GrapesJS / Payload guides](https://wordpress.org/documentation/)**  
-
-  Resources for self-hosting, extending, and building production websites and applications with open tools.
-
-
-
-- **[Static site generators + visual editing experiments](https://github.com/)**  
-
-  Community projects combining Hugo, Astro, or Next.js with visual editing layers for low-code publishing.
-
-
-
-- **[Open-source form builders and page section libraries](https://github.com/)**  
-
-  Complementary tools often used alongside CMS platforms for rapid web page assembly.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building on **WordPress** for the largest ecosystem of themes, plugins, and hosting options.
-
-- Using **GrapesJS** to create custom visual builders or embeddable editors.
-
-- Choosing **Payload**, **Directus**, or **Strapi** for modern headless CMS-driven websites and apps.
-
-- Combining open CMS backends with front-end frameworks for maximum flexibility and ownership.
-
-- Accepting that polished visual design tools, hosting, and marketplace ecosystems (Webflow, Framer, Wix Studio, Squarespace, Bubble, etc.) still favor commercial platforms for non-technical users.
-
-- Focusing open-source efforts on data ownership, extensibility, and freedom from proprietary hosting lock-in.
-
-
-
-**Frameworks for building custom systems**: Self-host WordPress or a headless CMS (Payload/Directus/Strapi) → add a visual editor (GrapesJS or similar) → deploy on your own infrastructure or open hosting → extend with plugins and custom code. Suitable for developers and organizations that want full control. Many teams and agencies still choose commercial builders for speed and design polish.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Web platforms handle content, user data, and sometimes payments. Self-hosted solutions require proper security, backups, and maintenance. This list is not design or hosting advice.
-
-
+**Last updated: October 2026** 📅
 
 ---
 
-**Made for designers, developers, marketers, and open-web advocates.**
+### 🔍 Overview & SEO Highlights
 
-Let's keep web creation accessible, flexible, and as open as practical.
+This repository tracks top-tier **SaaS platforms** and **open-source projects** for **Low-Code & No-Code Web Development**. These modern visual development tools empower designers, marketers, startup founders, and software engineers to create production-ready websites and web applications with minimal hand-coding while maintaining high scalability, security, and performance.
+
+*   **SaaS Industry Leaders:** Microsoft Power Pages, Webflow, Bubble, Wix Studio, Squarespace, WordPress.com, Framer, WeWeb, Duda, and Softr.
+*   **Open-Source Foundations:** Strapi, NocoDB, PocketBase, Ghost, Payload CMS, Appsmith, ToolJet, Directus, Budibase, GrapesJS, and Plasmic.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Market Analysis](#-market-analysis)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
+
+---
+
+## 📊 Market Analysis
+
+> **💡 Market Overview:** The global Website Builder & Low-Code Web Development market is estimated at **$3.5B – $6.0B** (expanding to **$40B+** when including enterprise Low-Code Application Development Platforms / LCAP). The sector is **moderately fragmented** with major platforms (Microsoft, Wix, Squarespace, Webflow) commanding core market share while specialized visual web builders and open-source ecosystems compete dynamically for developer and niche vertical segments.
+
+---
+
+## 💼 SaaS/Hosted Platforms
+
+| Platform | Starting Price (Paid) 💰 | Free Tier / Trial Limits 🎁 | Company Size (Valuation / Revenue) 📈 | Description 📝 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Power Pages](https://powerpages.microsoft.com/)** | $200/mo (100 auth users pack) or $4/user/mo pay-as-you-go | 30-day free trial (requires work/school email account) | ~$3.1T Valuation (Microsoft Parent) / Power Platform $2B+ ARR | Microsoft’s low-code platform for building secure, data-driven external-facing websites integrated with Power Platform, Dataverse, and Microsoft 365. |
+| **[Squarespace](https://www.squarespace.com/)** | $16/mo (billed annually) or $25/mo (monthly) | 14-day free trial (site hidden from public & search engines until paid) | $7.2B Valuation (Acquired by Permira) / ~$1.1B ARR | All-in-one website builder known for polished templates, integrated commerce, scheduling, and design-focused editing experience. |
+| **[Wix Studio](https://www.wix.com/studio)** | $19/mo (billed annually) | Free plan (500 MB storage, 1 GB bandwidth, wixsite.com subdomain, Wix ads) | ~$4.5B Market Cap / $1.99B ARR | Professional-grade visual website builder from Wix aimed at agencies and designers, with advanced design tools, responsive controls, and business features. |
+| **[Webflow](https://webflow.com/)** | $15/mo (billed annually) or $25/mo (monthly) | Starter plan (2 static pages, 50 CMS items, webflow.io subdomain, 50 form fills) | $4.0B Valuation / ~$212M ARR | Leading visual web design and development platform that gives designers precise control over layout, interactions, and CMS-driven sites with clean code export options. |
+| **[Framer](https://www.framer.com/)** | $10/mo (billed annually) or $15/mo (monthly) | Free plan (1,000 pages, 10 CMS collections, framer.website subdomain, Framer badge) | $2.0B Valuation / ~$50M ARR | Design-first website builder with advanced animations, interactions, and a modern visual editor popular among product and marketing teams. |
+| **[Bubble](https://bubble.io/)** | $29/mo (billed annually) or $32/mo (monthly) | Free plan (Development mode only, limited workload units, bubbleapps.io subdomain, no custom domain) | ~$1.8B Valuation / ~$70M ARR | Full-stack no-code platform for building complex web applications with databases, workflows, user authentication, and plugins—beyond static websites. |
+| **[WordPress.com](https://wordpress.com/)** | $4/mo (billed annually) or $9/mo (monthly) | Free plan (1 GB storage, wordpress.com subdomain, WordPress ads) | ~$1.0B Valuation (Automattic) / ~$300M ARR | Hosted versions of the WordPress ecosystem offering simplified management, themes, and plugins while the core software remains open-source. |
+| **[Duda](https://www.duda.co/)** | $19/mo (billed annually) or $25/mo (monthly) | 14-day free trial (no credit card required) | ~$500M Valuation / ~$41M ARR | Website builder platform tailored for agencies and freelancers, with client management, white-label options, and responsive design tools. |
+| **[Softr](https://www.softr.io/)** | $49/mo (billed annually) or $59/mo (monthly) | Free plan (5 app users, 5,000 records, softr.app subdomain, no custom domain) | ~$150M Valuation / ~$15M ARR | No-code platform that turns Airtable, Google Sheets, or other data sources into client portals, internal tools, and membership websites. |
+| **[WeWeb](https://www.weweb.io/)** | $16/mo (billed annually) or $20/mo (monthly) | Free plan (1 dev seat, 500 app sessions, weweb-preview.io subdomain, no code export) | ~$30M Valuation / ~$3.2M ARR | No-code web app builder focused on flexibility, code export, and connecting to external backends and APIs. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Below is a curated list of top open-source web development platforms and frameworks, **sorted by GitHub star count (descending)**.
+
+- **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) 🌟  
+  Leading open-source headless CMS in JavaScript/TypeScript that gives developers complete API customization while offering a sleek admin panel for content editors.
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) 🌟  
+  Open-source Airtable alternative that turns any MySQL, PostgreSQL, SQL Server, or SQLite database into a smart spreadsheet-like web interface.
+
+- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers) 🌟  
+  Open-source Go backend consisting of an embedded SQLite database, real-time subscriptions, user auth management, and an instant web admin dashboard.
+
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) 🌟  
+  Independent, open-source technology platform for modern publishing, membership sites, subscriptions, and newsletters with a clean writing UI.
+
+- **[Payload CMS](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) 🌟  
+  TypeScript-native headless CMS and web application framework built on Next.js, offering developer-first code configuration and automatic admin UI generation.
+
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) 🌟  
+  Open-source low-code developer platform to build internal web applications, admin panels, and custom dashboards by dragging UI components and binding JavaScript.
+
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) 🌟  
+  Extensible open-source low-code framework to quickly build business web tools and connect to databases (PostgreSQL, MongoDB), cloud storage, and REST APIs.
+
+- **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) 🌟  
+  Open-source data platform that wraps custom SQL databases with dynamic GraphQL/REST APIs and an intuitive, no-code data management app.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) 🌟  
+  Open-source low-code platform for building modern internal web apps, forms, workflows, and client portals in minutes.
+
+- **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers) 🌟  
+  Free, multi-purpose open-source Web Builder Framework that enables drag-and-drop HTML/CSS template creation inside custom CMS platforms and web applications.
+
+- **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers) 🌟  
+  The ubiquitous open-source web platform powering over 40% of the web, featuring full-site block editing, thousands of themes, and massive plugin extensibility.
+
+- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers) 🌟  
+  Visual page builder and headless CMS that integrates directly with Next.js, React, Vue, or Gatsby codebases for seamlessly blended visual design and custom code workflows.
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add or edit** entries in `README.md` following the tabular format or bullet structure.
+3. ℹ️ **Provide** accurate details: name, site link, star badge (if open-source), 1-2 sentence description, and pricing/trial limits.
+4. 🚀 **Submit** a Pull Request with a clear description of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated list of **Low-Code & No-Code Web Development Platforms** helpful:
+- ⭐ **Star** this repository to show your appreciation!
+- 🍴 **Fork** and share it with fellow developers, designers, and web creators!
+- ☕ **Sponsor & Buy Me a Coffee:** Support ongoing maintenance and curation of open-source resources via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Low-Code-Web-Development&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Low-Code-Web-Development&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list intended solely for informational purposes—it is not an exhaustive registry nor an endorsement.
+- Web platforms process user data, handle payments, and manage server security. Always perform security, compliance, and architectural audits prior to deploying web systems in production environments.
+
+---
+
+<p align="center"><b>Made with ❤️ for designers, developers, marketers, and open-web advocates.</b></p>
+# Awesome-Low-Code-Web-Development
+
