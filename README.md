@@ -68,54 +68,54 @@ This repository tracks top-tier **SaaS platforms**, **visual website builders**,
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-Below is a curated list of top open-source web development platforms, headless CMS, and low-code frameworks, **sorted by GitHub star count (descending)**.
+Below is a curated list of top open-source web development platforms, headless CMS, and low-code frameworks, **sorted by GitHub Stars_Count (descending)**.
 
-- **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) 🌟  
+- **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) 🌟  
   Leading open-source headless CMS in JavaScript/TypeScript that gives developers complete API customization while offering a sleek admin panel for content editors.
 
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) 🌟  
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) 🌟  
   Open-source Airtable alternative that turns any MySQL, PostgreSQL, SQL Server, or SQLite database into a smart spreadsheet-like web interface.
 
-- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers) 🌟  
+- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers) 🌟  
   Open-source Go backend consisting of an embedded SQLite database, real-time subscriptions, user auth management, and an instant web admin dashboard.
 
-- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) 🌟  
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) 🌟  
   Independent, open-source technology platform for modern publishing, membership sites, subscriptions, and newsletters with a clean writing UI.
 
-- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) 🌟  
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) 🌟  
   Open-source low-code developer platform to build internal web applications, admin panels, and custom dashboards by dragging UI components and binding JavaScript.
 
-- **[Payload CMS](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) 🌟  
+- **[Payload CMS](https://github.com/payloadcms/payload)** [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) 🌟  
   TypeScript-native headless CMS and web application framework built on Next.js, offering developer-first code configuration and automatic admin UI generation.
 
-- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) 🌟  
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) 🌟  
   Extensible open-source low-code framework to quickly build business web tools and connect to databases (PostgreSQL, MongoDB), cloud storage, and REST APIs.
 
-- **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) 🌟  
+- **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) 🌟  
   Open-source data platform that wraps custom SQL databases with dynamic GraphQL/REST APIs and an intuitive, no-code data management app.
 
-- **[Refine](https://github.com/refinedev/refine)** [![GitHub stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers) 🌟  
+- **[Refine](https://github.com/refinedev/refine)** [![GitHub_Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers) 🌟  
   Open-source React meta-framework for building enterprise internal tools, admin panels, B2B apps, and dashboards with minimal setup.
 
-- **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers) 🌟  
+- **[GrapesJS](https://github.com/GrapesJS/grapesjs)** [![GitHub_Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers) 🌟  
   Free, multi-purpose open-source Web Builder Framework that enables drag-and-drop HTML/CSS template creation inside custom CMS platforms and web applications.
 
-- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) 🌟  
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) 🌟  
   Open-source low-code platform for building modern internal web apps, forms, workflows, and client portals in minutes.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) 🌟  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) 🌟  
   Open-source no-code business automation tool and Zapier/Make alternative designed for connecting web applications and automating web workflows.
 
-- **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers) 🌟  
+- **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub_Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers) 🌟  
   The ubiquitous open-source web platform powering over 40% of the web, featuring full-site block editing, thousands of themes, and massive plugin extensibility.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🌟  
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🌟  
   Open-source survey software and experience management platform tailored for web application integration and in-product user feedback.
 
-- **[Webiny](https://github.com/webiny/webiny-js)** [![GitHub stars](https://img.shields.io/github/stars/webiny/webiny-js?style=social&color=white)](https://github.com/webiny/webiny-js/stargazers) 🌟  
+- **[Webiny](https://github.com/webiny/webiny-js)** [![GitHub_Stars](https://img.shields.io/github/stars/webiny/webiny-js?style=social&color=white)](https://github.com/webiny/webiny-js/stargazers) 🌟  
   Open-source serverless CMS and application framework built on React and Node.js for creating scalable enterprise web portals and static site generators.
 
-- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers) 🌟  
+- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub_Stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers) 🌟  
   Visual page builder and headless CMS that integrates directly with Next.js, React, Vue, or Gatsby codebases for seamlessly blended visual design and custom code workflows.
 
 ---
@@ -124,7 +124,7 @@ Below is a curated list of top open-source web development platforms, headless C
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or edit** entries in `README.md` following the tabular format or bullet structure.
-3. ℹ️ **Provide** accurate details: name, site link, star badge (if open-source), 1-2 sentence description, and pricing/trial limits.
+3. ℹ️ **Provide** accurate details: name, site link, Stars_Badge (if open-source), 1-2 sentence description, and pricing/trial limits.
 4. 🚀 **Submit** a Pull Request with a clear description of your additions.
 
 ---
