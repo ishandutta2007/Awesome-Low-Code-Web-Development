@@ -68,7 +68,7 @@ This repository tracks top-tier **SaaS platforms**, **visual website builders**,
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-Below is a curated list of top open-source web development platforms, headless CMS, and low-code frameworks, **sorted by GitHub Stars_Count (descending)**.
+Below is a curated list of top open-source web development platforms, headless CMS, and low-code frameworks, **sorted by GitHub_Stars_Count (descending)**.
 
 - **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) 🌟  
   Leading open-source headless CMS in JavaScript/TypeScript that gives developers complete API customization while offering a sleek admin panel for content editors.
